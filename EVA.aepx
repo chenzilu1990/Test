@@ -2,7 +2,7 @@
 <AfterEffectsProject xmlns="http://www.adobe.com/products/aftereffects" majorVersion="1" minorVersion="0">
 	<svap bdata="077006cf"/>
 	<head bdata="00580001077006cf800000000000001f000007e3"/>
-	<nhed bdata="0000000000000005010101001e1002000000001901038e600000608000000000"/>
+	<nhed bdata="0000000000000005010101001e100200000000190043fe000000610000000000"/>
 	<adfr bdata="40e7700000000000"/>
 	<qtlg bdata="00"/>
 	<CapI>
@@ -28,9 +28,9 @@
          <dc:format>application/vnd.adobe.aftereffects.project</dc:format>
          <xmp:CreatorTool>Adobe After Effects CC 2017 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2017-05-05T21:42:27+08:00</xmp:CreateDate>
-         <xmp:MetadataDate>2017-05-20T17:06:14+08:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2017-05-20T17:06:14+08:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:5ac32dae-3a6c-41de-99d7-1d0ce292862a</xmpMM:InstanceID>
+         <xmp:MetadataDate>2017-05-20T17:07:29+08:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-05-20T17:07:29+08:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:b78e2177-fc3f-4356-b528-69f0eea7f98e</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:0a527634-b556-4c2c-87e2-424c92225a73</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:6ec4c678-71bd-4b72-9e88-9b1ba415cc52</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -75,8 +75,8 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:5ac32dae-3a6c-41de-99d7-1d0ce292862a</stEvt:instanceID>
-                  <stEvt:when>2017-05-20T17:06:14+08:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:b78e2177-fc3f-4356-b528-69f0eea7f98e</stEvt:instanceID>
+                  <stEvt:when>2017-05-20T17:07:29+08:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe After Effects CC 2017 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/content</stEvt:changed>
                </rdf:li>
@@ -143,7 +143,7 @@
 						<tdsb bdata="00000001"/>
 						<tdsn bdata="0000"/>
 						<tdmn bdata="41444245204d61736b2041746f6d0000000000000000000000000000000000000000000000000000"/>
-						<mkif bdata="000000000000000100000001204d61736b2041746f6d00000000000000000000000000000000000000000000fff8ff00"/>
+						<mkif bdata="000000000000000100000001204d61736b2041746f6d00000000000000000000000000000000000000000000ff1600ff"/>
 						<tdgp>
 							<tdsb bdata="00000001"/>
 							<tdsn bdata="4d61736b203100"/>
@@ -2328,7 +2328,7 @@
 		</FEE>
 		<fvdv bdata="00000003"/>
 		<fiop bdata="01"/>
-		<ftts bdata="000000d2"/>
+		<ftts bdata="000000e5"/>
 		<foac bdata="01"/>
 		<fots bdata="000b"/>
 		<fott bdata="41452054696d656c696e65"/>
